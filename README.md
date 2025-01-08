@@ -124,7 +124,7 @@ def calculate_lpips(img1, img2):
 
 ---
 
-## 🤖 **Future Enhancements**
+## **Future Enhancements**
 - **Integrate Real-World Datasets**: Use tools like **COLMAP** to estimate camera poses for real-world images.
 - **Optimize Rendering Speed**: Explore **Instant-NGP** for faster training and rendering.
 - **Real-Time Applications**: Integrate NeRF with **robotics** for 3D mapping and navigation.
